@@ -1,0 +1,11 @@
+Steps to reproduce:
+  1. Go to a pdf in google drive that is only in "VIEW" mode.
+  2. After that open console in google chrome.
+  3. Load the pages by moving from the first page to the last page so that all pages are loaded.
+  4. After that paste the code provided below in the Console and press Enter
+  5. Every loaded image will be downloaded in the form of a pdf that was only in the "view" mode.
+
+Links - 
+Code Link - https://drive.google.com/file/d/1rL0tkL8ZqHh87Qoouwx5hrKA3r5k3iax/view?usp=sharing
+Video Link(for proof) - https://drive.google.com/file/d/1vFiazjG-4n7U9jW4ngu99fonl9o3dRQu/view?usp=sharing
+ScreenShots Link - https://drive.google.com/file/d/175ua3y0MUby77SE6cp6OkQf2C_7iDYdb/view?usp=sharing

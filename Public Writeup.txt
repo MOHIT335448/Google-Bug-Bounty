@@ -1,0 +1,15 @@
+Vulnerability found - I was able to download a ' view ' only mode file from google chrome drive. These can be a huge bug for security 
+
+VERSION
+Chrome Version: Version 92.0.4515.159 (Official Build) (64-bit)
+Operating System: [Windows,10]
+
+Summary - 
+After loading each page of the pdf by moving from up to down in the drive, paste the code in the console section provided in Bug Code.txt and press enter then you will be able to download the file which was in only view mode.
+
+remember - you have to open the console first then reload the pdf and then move from up to down, loading the pdf.
+
+
+
+
+
